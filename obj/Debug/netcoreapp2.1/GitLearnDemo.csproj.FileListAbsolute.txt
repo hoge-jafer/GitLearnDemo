@@ -1,0 +1,10 @@
+D:\GitLearn\GitLearnDemo\bin\Debug\netcoreapp2.1\GitLearnDemo.deps.json
+D:\GitLearn\GitLearnDemo\bin\Debug\netcoreapp2.1\GitLearnDemo.runtimeconfig.json
+D:\GitLearn\GitLearnDemo\bin\Debug\netcoreapp2.1\GitLearnDemo.runtimeconfig.dev.json
+D:\GitLearn\GitLearnDemo\bin\Debug\netcoreapp2.1\GitLearnDemo.dll
+D:\GitLearn\GitLearnDemo\bin\Debug\netcoreapp2.1\GitLearnDemo.pdb
+D:\GitLearn\GitLearnDemo\obj\Debug\netcoreapp2.1\GitLearnDemo.csproj.CoreCompileInputs.cache
+D:\GitLearn\GitLearnDemo\obj\Debug\netcoreapp2.1\GitLearnDemo.AssemblyInfoInputs.cache
+D:\GitLearn\GitLearnDemo\obj\Debug\netcoreapp2.1\GitLearnDemo.AssemblyInfo.cs
+D:\GitLearn\GitLearnDemo\obj\Debug\netcoreapp2.1\GitLearnDemo.dll
+D:\GitLearn\GitLearnDemo\obj\Debug\netcoreapp2.1\GitLearnDemo.pdb
